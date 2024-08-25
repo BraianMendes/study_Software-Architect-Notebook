@@ -1,57 +1,64 @@
-# BackEnd Roadmap Study
+# Software Architect Roadmap Study
 
 ## What is this?
 
-BackEnd Roadmap Study is my repository and notebook from all my studies as a BackEnd Developer.
+Software Architect Roadmap Study is my repository and notebook from all my studies as a Software Architect.
 
 ## Summary
 
-[01. Internet](01_Internet/README.md)
+[01. Understand the Basics](01_Understand_the_Basics/README.md)
 <br>
-[02. Basic Frontend](02_Basic_Frontend/README.md)
+[02. Responsibilities](02_Responsibilities/README.md)
 <br>
-[03. OS and General](03_OS_and_General/README.md)
+[03. Important Skills to Learn](03_Important_Skills_to_Learn/README.md)
 <br>
-[04. Languages](04_Languages/README.md)
+[04. Technical Skills](04_Technical_Skills/README.md)
 <br>
-[05. GIT](05_GIT/README.md)
+[05. Programming Languages](05_Programming_Languages/README.md)
 <br>
-[06. Databases](06_Databases/README.md)
+[06. Patterns & Design Principles](06_Patterns_Design_Principles/README.md)
 <br>
-[07. More About Databases](07_More_About_Databases/README.md)
+[07. Tools](07_Tools/README.md)
 <br>
-[08. APIs](08_APIs/README.md)
+[08. Architecture](08_Architecture/README.md)
 <br>
-[09. Caching](09_Caching/README.md)
+[09. Security](09_Security/README.md)
 <br>
-[10. Web Security](10_Web_Security/README.md)
+[10. Working with Data](10_Working_with_Data/README.md)
 <br>
-[11. Testing](11_Testing/README.md)
+[11. APIs & Integrations](11_APIs_Integrations/README.md)
 <br>
-[12. CI/CD](12_CI_CD/README.md)
+[12. Web, Mobile](12_Web_Mobile/README.md)
 <br>
-[13. Design and Development Principles](13_Design_and_Development_Principles/README.md)
+[13. Frameworks](13_Frameworks/README.md)
 <br>
-[14. Search Engines](14_Search_Engines/README.md)
+[14. Management](14_Management/README.md)
 <br>
-[15. Message Brokers](15_Message_Brokers/README.md)
+[15. Networks](15_Networks/README.md)
 <br>
-[16. Containerization vs Virtualization](16_Containerization_vs_Virtualization/README.md)
+[16. Operations Knowledge](16_Operations_Knowledge/README.md)
 <br>
-[17. GraphQL](17_GraphQL/README.md)
+[17. Enterprise Software](17_Enterprise_Software/README.md)
 <br>
-[18. Graph Databases](18_Graph_Databases/README.md)
+[18. Clean Code Principles](18_Clean_Code_Principles/README.md)
 <br>
-[19. Websockets](19_Websockets/README.md)
+[19. Programming Paradigms](19_Programming_Paradigms/README.md)
 <br>
-[20. Web Servers](20_Web_Servers/README.md)
+[20. Object Oriented Programming](20_Object_Oriented_Programming/README.md)
 <br>
-[21. Building for Scale](21_Building_for_Scale/README.md)
+[21. Design Principles](21_Design_Principles/README.md)
 <br>
-[22. Frameworks](22_Frameworks/README.md)
+[22. Design Patterns](22_Design_Patterns/README.md)
 <br>
+[23. Architectural Principles](23_Architectural_Principles/README.md)
+<br>
+[24. Architectural Styles](24_Architectural_Styles/README.md)
+<br>
+[25. Architectural Patterns](25_Architectural_Patterns/README.md)
+<br>
+[26. Enterprise Patterns](26_Enterprise_Patterns/README.md)
 
-## Backend Roadmap Diagram
+## Software Architect Roadmap Diagram
 
 ![](.gitbook/assets/software-architect.png)
 
