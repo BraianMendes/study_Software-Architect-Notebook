@@ -61,6 +61,7 @@ Software Architect Roadmap Study is my repository and notebook from all my studi
 ## Software Architect Roadmap Diagram
 
 https://roadmap.sh/software-architect
+<br>
 https://roadmap.sh/software-design-architecture
 ![](.gitbook/assets/software-architect.png)
 
